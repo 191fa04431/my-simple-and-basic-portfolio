@@ -1,3 +1,2 @@
-# my-simple-and-basic-portfolio
-
+# Basic-Portfolio
 This is my simple portfolio.
